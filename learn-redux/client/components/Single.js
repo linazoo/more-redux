@@ -1,6 +1,6 @@
 import React from 'react';
 
-const single = React.createClass({
+const Single = React.createClass({
   render() {
     return (
       <div className="single-photo">
